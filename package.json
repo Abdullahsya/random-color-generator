@@ -4,5 +4,13 @@
   "main": "index.js",
   "repository": "https://github.com/Abdullahsya/random-color-generator.git",
   "author": "Abdullah <abdullah.abdulrahim@outlook.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "colors": "^1.4.0",
+    "hex-color-regex": "^1.1.0",
+    "random-color": "^1.0.1",
+    "random-color-gen": "^2.0.0",
+    "random-hex": "^1.0.2"
+  }
 }
